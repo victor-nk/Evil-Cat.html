@@ -13,7 +13,7 @@
         <li>Furry.
         <li>Cute.
         <li>Evil.
-        <li>Scarry.
+        <li>Scary.
     </ul>
     
     <h3>Official Info on Cats</h3>
