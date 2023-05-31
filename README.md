@@ -10,9 +10,10 @@
 
     <h3>Why I Love Cats</h3>
     <ul>
-        <li>Furry
-        <li>Cute
-        <li>Evil
+        <li>Furry.
+        <li>Cute.
+        <li>Evil.
+        <li>Scarry.
     </ul>
     
     <h3>Official Info on Cats</h3>
